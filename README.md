@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ujjwalkumar17
 - 👀 I’m interested in ... Front end development
-- 🌱 I’m currently learning ... ReactJS
+- 🌱 I’m currently learning ... vueJS
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... https://www.linkedin.com/in/ujjwal-kumar-17n1999/ || linkedIN
 
